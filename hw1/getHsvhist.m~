@@ -1,0 +1,7 @@
+function [h] = getHsvhist(image)
+
+imdir = dir('./hw1');
+
+
+end
+
